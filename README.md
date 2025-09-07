@@ -26,7 +26,7 @@ Database & Hosting: Firebase
 
 Clone the repository:
 
-git clone https://github.com/your-username/ai-mock-interview.git
+git clone https://github.com/hars123/ai-mock-interview.git
 cd ai-mock-interview
 
 
