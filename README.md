@@ -1,4 +1,4 @@
-# Prepwise-Ai-Interview-
+# Prepwise-Ai-Interview
 
 AI Mock Interview
 
