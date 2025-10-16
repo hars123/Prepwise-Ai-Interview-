@@ -71,9 +71,6 @@ prepwise/
 ├── postcss.config.js # PostCSS config
 └── README.md # Documentation
 
-
----
-
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the repository
@@ -107,27 +104,19 @@ firebase deploy
 💡 Features
 
 🔐 Secure authentication via Clerk
-
 ☁️ Real-time data with Firebase
-
 🎨 Modern responsive UI with Tailwind CSS
-
 ⚡ Fast & optimized build with Vite
-
 📊 Scalable structure for future enhancements
 
 🧑‍💻 Author
 
 Harshit Shukla
-📧 [Your Email Here]
-🌐 Your Portfolio or LinkedIn
-
+📧 [harshitshukla4513@gmail.com]
+🌐 Portfolio : https://hars123.github.io/Harshit-Shukla/
 ⭐ If you like this project, give it a star on GitHub!
 
+“Made with ❤️ by Harshit Shukla”.
 
----
-
-Would you like me to **add badges** (like “Made with ❤️ by Harshit Shukla”, version badge, or deployment badge like Firebase status)?  
-I can enhance this visually like a top-tier open-source README.
 
 
