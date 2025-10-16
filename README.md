@@ -22,7 +22,7 @@ It combines **seamless authentication**, **cloud storage**, and a **beautiful re
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,firebase" height="50" />
-  <img src="https://www.svgrepo.com/show/511771/clerk.svg" height="50" title="Clerk Auth" />
+
 </p>
 
 | Technology | Description |
