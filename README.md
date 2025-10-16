@@ -46,3 +46,88 @@ It combines **seamless authentication**, **cloud storage**, and a **beautiful re
 
 ## 🏗️ Project Structure
 
+prepwise/
+├── public/ # Static files (index.html, favicon, etc.)
+│
+├── src/ # Main source code
+│ ├── assets/ # Images, fonts, and icons
+│ ├── components/ # Reusable UI components (Navbar, Card, etc.)
+│ ├── context/ # React Context API for global state (Auth, Theme)
+│ ├── hooks/ # Custom React hooks (useAuth, useFetch, etc.)
+│ ├── pages/ # Application pages (Home, Dashboard, Practice, etc.)
+│ ├── routes/ # Route management (Protected routes)
+│ ├── services/ # Firebase & Clerk configurations
+│ │ ├── firebase.js # Firebase setup & config
+│ │ └── auth.js # Clerk authentication utilities
+│ ├── styles/ # Tailwind CSS configurations & global styles
+│ ├── utils/ # Helper functions and constants
+│ ├── App.jsx # Main React component
+│ ├── main.jsx # React DOM entry point
+│ └── index.css # Tailwind CSS base styles
+│
+├── .env # Environment variables
+├── package.json # Dependencies and scripts
+├── tailwind.config.js # Tailwind CSS config
+├── postcss.config.js # PostCSS config
+└── README.md # Documentation
+
+
+---
+
+## ⚡ Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/yourusername/prepwise.git
+cd prepwise
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Set up environment variables
+
+Create a .env file in the root directory and add your Firebase and Clerk credentials:
+
+VITE_FIREBASE_API_KEY=your_firebase_api_key
+VITE_CLERK_PUBLISHABLE_KEY=your_clerk_key
+
+4️⃣ Run the project
+npm run dev
+
+🚀 Deployment
+
+This project is deployed on Firebase Hosting for seamless performance and scalability.
+
+To deploy manually:
+
+npm run build
+firebase deploy
+
+💡 Features
+
+🔐 Secure authentication via Clerk
+
+☁️ Real-time data with Firebase
+
+🎨 Modern responsive UI with Tailwind CSS
+
+⚡ Fast & optimized build with Vite
+
+📊 Scalable structure for future enhancements
+
+🧑‍💻 Author
+
+Harshit Shukla
+📧 [Your Email Here]
+🌐 Your Portfolio or LinkedIn
+
+⭐ If you like this project, give it a star on GitHub!
+
+
+---
+
+Would you like me to **add badges** (like “Made with ❤️ by Harshit Shukla”, version badge, or deployment badge like Firebase status)?  
+I can enhance this visually like a top-tier open-source README.
+
+
