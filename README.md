@@ -109,7 +109,7 @@ firebase deploy
 ⚡ Fast & optimized build with Vite
 📊 Scalable structure for future enhancements
 
-🧑‍💻 Author
+🧑‍💻 Author :
 
 Harshit Shukla
 📧 [harshitshukla4513@gmail.com]
