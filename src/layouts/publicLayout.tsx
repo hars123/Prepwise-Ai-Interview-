@@ -1,13 +1,15 @@
-import Footer from "@/components/ui/footer";
-import Header from "@/components/ui/header";
+
+import Footer from "@/components/footer";
+import Header from "@/components/header";
 import { Outlet } from "react-router-dom";
 
 const PublicLayout = () => {
   return (
     <div className="w-full">
-      <Header />
+      <Header/>
       <Outlet />
-      <Footer />
+      <Footer/>
+      
     </div>
   );
 };
